@@ -1,4 +1,4 @@
-# SocialDataScience-project-agmvc
+# The Impact of Video Length and Interactivity on YouTube Channel Size and Video Popularity: Analysis of Greece's Most-Viewed Channels
 ## Project for Master in Social Data Science at KU, Winter Semester 2025
 Social Data Science Project | The Impact of Video Length and Interactivity on YouTube Channel Size and Video Popularity: Analysis of Greece's Most-Viewed Channels 
 
